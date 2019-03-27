@@ -23,5 +23,13 @@ Run it, and the calculation will start.
          <a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075556-51dff080-50a4-11e9-8223-74054b3725d5.png" height="328" width="428" ></a>
      </td>
     </tr>
+    <tr>
+      <td>
+        <a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075861-1691f180-50a5-11e9-994e-183b7c71fd48.png" height="328" width="428" ></a>
+      </td>
+      <td>
+         <a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075936-3b866480-50a5-11e9-8447-25c136af6469.png" height="328" width="428" ></a>
+     </td>
+    </tr>
   </tbody>
  </table>
