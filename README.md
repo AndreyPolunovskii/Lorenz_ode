@@ -13,4 +13,4 @@ Run it, and the calculation will start.
 
 ./RUN
 
-<a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075468-1b09da80-50a4-11e9-98a3-6dfc7f3ee1ef.png" align="left" height="628" width="628" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075468-1b09da80-50a4-11e9-98a3-6dfc7f3ee1ef.png" align="left" height="328" width="428" ></a>
