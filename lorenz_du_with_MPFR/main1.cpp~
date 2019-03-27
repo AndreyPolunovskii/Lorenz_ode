@@ -1,0 +1,29 @@
+#include "solve_ser.h"
+
+//long double -не берет,пишет -core doumpt
+
+int main()
+{
+double T,x0,y0,z0;
+
+system("cp /dev/null output_data.txt");//чистим файл перед прочитыванием
+
+fstream outdata1("output_data.txt");
+
+
+cout << "введите начальные условия" << endl;
+cin >> x0 >> y0 >> z0;
+
+T = steps * Rad *10 ;
+
+cout <<"длина отрезка итегрирования: " << T  << endl;
+
+solver_ser1(x0,y0,z0,outdata1);
+
+
+
+system("./plot_command.gnu ");
+cout << "в этой папке создан файл с графиками u1.eps" <<endl;
+
+outdata1.close();
+}

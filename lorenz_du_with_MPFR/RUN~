@@ -1,0 +1,4 @@
+#!/bin/sh
+
+g++ -c solver_file.cpp main1.cpp
+

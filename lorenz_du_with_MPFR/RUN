@@ -1,0 +1,7 @@
+#!/bin/sh
+
+g++ -c solver_file.cpp main1.cpp -std=gnu++11 -lmpfr -lgmp 
+g++ main1.o solver_file.o -o solve1 -std=gnu++11 -lmpfr -lgmp 
+rm -f *.o
+
+./solve1
