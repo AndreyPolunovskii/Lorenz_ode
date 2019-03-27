@@ -13,6 +13,15 @@ Run it, and the calculation will start.
 
 ./RUN
 
-<a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075468-1b09da80-50a4-11e9-98a3-6dfc7f3ee1ef.png" align="left" height="328" width="428" ></a>
-
-<a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075556-51dff080-50a4-11e9-8223-74054b3725d5.png" align="left" height="328" width="428" ></a>
+<table>
+  <tbody>
+   <tr>
+     <td>
+       <a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075468-1b09da80-50a4-11e9-98a3-6dfc7f3ee1ef.png" height="328" width="428" ></a>
+     </td>
+     <td>
+         <a href="url"><img src="https://user-images.githubusercontent.com/48961982/55075556-51dff080-50a4-11e9-8223-74054b3725d5.png" height="328" width="428" ></a>
+     </td>
+    </tr>
+  </tbody>
+ </table>
