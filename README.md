@@ -1,7 +1,7 @@
 # Lorenz_ode
 This repository is dedicated to solving the Lorenz' equation by high-precision numerical methods with MPFR Library.
 
-For executing this program, will required to install MPFR Library and Gnuplot: 
+For executing this program, will required to install MPFR Library and Gnuplot:
 
     sudo apt-get install libmpfrc++-dev
 
@@ -33,3 +33,5 @@ Run it, and the calculation will start.
     </tr>
   </tbody>
  </table>
+
+ Hi!
