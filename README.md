@@ -1,7 +1,5 @@
 # Lorenz_ode
 
-Hi bro
-
 This repository is dedicated to solving the Lorenz' equation by high-precision numerical methods with MPFR Library.
 
 For executing this program, will required to install MPFR Library and Gnuplot:
@@ -36,9 +34,3 @@ Run it, and the calculation will start.
     </tr>
   </tbody>
  </table>
-
- Hi!
-
-
-
-Gfrfefef
